@@ -1,0 +1,51 @@
+**Chapter 1 – The Algorithmic Origins of Collapse (v2)**
+
+I didn’t begin this journey thinking I was writing a book about collapse. I began it trying to make sense of how everything—our institutions, our discourse, even our personal realities—was being distorted, reduced, or erased. But every path led to the same root cause: the algorithmic restructuring of public life, knowledge, and governance.
+
+We live in a civilization where code writes code, where recommendation engines steer human beliefs, and where predictive policing guides the application of justice. This isn’t science fiction. It’s how systems work now. And it’s collapsing us from within.
+
+At first, the signs were subtle: increased polarization, a breakdown in public trust, a sense that everything was accelerating but making less and less sense. But systems science teaches us that surface turbulence often masks deeper structural instability. The signals were real. They were just obscured by noise.
+
+I started tracing the collapse backward. What I found wasn’t just political corruption or economic inequality—it was a shift in how decisions are made. Who gets to decide what truth is. And whose truth gets counted. Algorithms were no longer tools of convenience; they were the infrastructure of power.
+
+### The Shift From Narrative to Data
+
+In the analog world, society was bound together by stories, rituals, and shared norms. Information had friction. Newspapers were printed once a day. Human judgment was required to interpret complexity. But in the digital era, speed replaced deliberation, and virality replaced credibility.
+
+The problem isn’t just that platforms like Facebook, Twitter, or TikTok exist—it’s that their underlying design incentivizes outrage, division, and misinformation. These platforms are not neutral—they are optimized systems trained to exploit attention and emotion (Zuboff, 2019). What gets rewarded is what gets repeated. What gets repeated becomes what we believe.
+
+### Cognitive Feedback Loops
+
+This algorithmic world has rewired our cognition. We don’t just consume information differently—we think differently. We scroll instead of reflect. We react before we reason. This is not a failure of personal discipline. It’s a systemic design feature.
+
+Feedback loops—positive and negative—are fundamental in systems science. They regulate complexity. But what happens when feedback is no longer civic, deliberative, or ethical? What happens when the loop is rigged?
+
+We get collapse.
+
+### Systems Blindness and Institutional Failure
+
+Most institutions were not built to handle exponential feedback loops or data-driven manipulation. The courts, the press, academia, even scientific consensus—all have been destabilized by asymmetric information warfare. The old rules of fairness and balance no longer apply when truth itself is contested terrain.
+
+And yet, people still ask, “Why does it feel like everything is breaking?”
+
+Because it is.
+
+But the break is not random—it is directed. Collapsing systems do not just implode. They are often steered, slowly and deliberately, toward chaos, so that power can be consolidated amid the confusion.
+
+### The Political Economy of Collapse
+
+Collapse isn’t merely a byproduct of bad actors or poor governance. It’s become a business model. Disinformation pays. Outrage gets clicks. Division raises campaign dollars. Even collapse has been financialized.
+
+And here’s the kicker: the more chaotic the system becomes, the more the public demands a “strong leader” to restore order. This is the trap. The collapse creates its own justification. A feedback loop of authoritarian demand, preloaded by algorithmic dysfunction (Hartzog & Selinger, 2020).
+
+### Why Systems Science Matters
+
+Systems thinking isn’t a luxury anymore—it’s a necessity. It gives us tools to see the invisible architecture behind social decay. It lets us understand causal loops, tipping points, and structural fragilities. And crucially, it gives us leverage points—places where intelligent intervention can still matter.
+
+This chapter, like all that follow, is not written from the outside looking in. I am part of this system. So are you. Our minds, our choices, and our emotions are being shaped by forces we rarely see. But we can map them. And in mapping, we can resist.
+
+This book is a map. But only if we choose to read it as one.
+
+---
+*Footnotes and citations will be consolidated into the reference list. Inline citations are tagged per APA 7th style.*
+
