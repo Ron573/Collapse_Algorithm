@@ -1,0 +1,126 @@
+% Collapse_Algorithm: Main Book File
+% Unified document with all front matter, chapters, appendices, and back matter
+
+\documentclass[12pt]{book}
+
+% ----------- Packages -----------
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{microtype}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage{imakeidx}
+\usepackage{longtable}
+\usepackage{multicol}
+\usepackage{parskip}
+\usepackage{wrapfig}
+
+% ----------- Settings -----------
+\geometry{margin=1in}
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+\titleformat{\chapter}[display]{\bfseries\LARGE}{}{0pt}{\Huge}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\thepage}
+\lhead{Collapse_Algorithm}
+\setlength{\parindent}{0pt}
+\onehalfspacing
+\makeindex
+
+% ----------- Begin Document -----------
+\begin{document}
+
+% Cover page (not rendered, image inserted externally for print/PDF)
+\thispagestyle{empty}
+\begin{center}
+\includegraphics[width=\textwidth]{assets/front_cover_final.png}
+\end{center}
+\newpage
+
+% Title Page
+\begin{titlepage}
+\centering
+\vspace*{2cm}
+\Huge \textbf{Collapse Algorithm} \\[0.5cm]
+\Large \textit{How Systems Fail, And What Comes After} \\[1.5cm]
+\large Ronald J. Botelho, MS \\[2cm]
+\normalsize\textcopyright\ 2025 \hspace{0.5cm} All Rights Reserved \\[1.5cm]
+\end{titlepage}
+\newpage
+
+% Copyright and Licensing
+\thispagestyle{empty}
+\section*{Copyright and Licensing}
+\small
+\noindent
+Collapse Algorithm \newline
+by Ronald J. Botelho, MS \newline
+
+\noindent
+MIT License. You are free to share and adapt this work with attribution. Full license text in Appendix E.
+\newpage
+
+% Dedication
+\thispagestyle{empty}
+\section*{Dedication}
+\textit{To those who stood their ground, even when the system fell silent.}
+\newpage
+
+% Table of Contents
+\tableofcontents
+\newpage
+
+% Chapters (placeholders)
+\chapter{Introduction}
+\input{chapters/chapter_1_introduction.tex}
+
+\chapter{Chapter Two Title}
+\input{chapters/chapter_2_title.tex}
+
+% [... more chapters here ...]
+
+\chapter{Epilogue: We Were Never Free}
+\input{chapters/epilogue_we_were_never_free.tex}
+
+% Appendices
+\appendix
+\chapter{Appendix A: Terminology}
+\input{appendices/appendix_A_terminology.tex}
+
+\chapter{Appendix B: Collapse Case Studies}
+\input{appendices/appendix_B_case_studies.tex}
+
+\chapter{Appendix C: Code and Data}
+\input{appendices/appendix_C_code_data.tex}
+
+\chapter{Appendix D: Civil Conflict Risk Table}
+\input{appendices/appendix_D_conflict_table.tex}
+
+\chapter{Appendix E: Full MIT License}
+\input{appendices/appendix_E_license.tex}
+
+% Index
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Index}
+\printindex
+
+% Bibliography
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{apa}
+\bibliography{references/collapse_algorithm_refs}
+
+% Back cover image (manual placement in print/PDF)
+\thispagestyle{empty}
+\begin{center}
+\includegraphics[width=\textwidth]{assets/back_cover_final.png}
+\end{center}
+
+\end{document)

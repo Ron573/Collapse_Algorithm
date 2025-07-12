@@ -1,4 +1,4 @@
-% Collapse Algorithm – Final Master File
+1% Collapse Algorithm – Final Master File
 % Author: Ronald J. Botelho, MS
 % File: Collapse_Algorithm_final_main.tex
 % Created: July 2025
@@ -6,6 +6,7 @@
 % Encoding: UTF-8
 
 \documentclass[12pt]{book}
+\input{preamble.tex}
 
 % --------------------
 % Preamble
@@ -13,6 +14,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[style=apa, backend=biber]{biblatex}
+\addbibresource{your_bibliography_file.bib}
+
 \usepackage{csquotes}
 \addbibresource{references/collapse_algorithm_refs.bib}
 
@@ -54,4 +57,90 @@
 \addcontentsline{toc}{chapter}{Reflections: Why the Thermodynamic Cost of Erasing History Matters}
 \input{chapters/propaganda_feedback}
 \input{disclaimer}
+\input{license}
+
+% =========================
+% TOC & Main Matter
+% =========================
+\newpage
+\tableofcontents
+\listoffigures
+\clearpage
+
+\mainmatter
+
+\input{chapters/chapter_1_v_2}
+\includegraphics[width=\textwidth]{Images/ch1_entropy_drift.png}
+
+\input{chapters/chapter_2_thermodynamic_cost_of_erasure}
+\includegraphics[width=\textwidth]{Images/ch2_markov_chain.png}
+\section*{List of Figures (Annotated)}
+\begin{itemize}
+  \item \textbf{Fig 2.1}: Authoritarian narrative convergence heatmap (TPM, ICE, 2015–2025)
+  \item \textbf{Fig 2.2}: Third-order TPM under Palantir-Musk expansion
+  \item \textbf{Fig 2.3}: KL Divergence of ICE contract language, 2015 vs. 2025
+  \item \textbf{Fig 2.4}: Token entropy decline (FPDS data)
+  \item \textbf{Fig 2.5}: COMPAS risk score bias chart (ProPublica)
+  \item \textbf{Fig 2.6}: Algorithmic Judgment Feedback Spiral (Radial Web)
+  \item \textbf{Fig 2.7}: Procurement Entropy Drift (Thermodynamic)
+\end{itemize}
+\input{chapters/chapter_3_v_2}
+\includegraphics[width=\textwidth]{Images/ch3_feedback_loops.png}
+
+\input{chapters/chapter_4_v_2}
+\includegraphics[width=\textwidth]{Images/ch4_structural_shift.png}
+
+\input{chapters/chapter_5_v_2}
+\includegraphics[width=\textwidth]{Images/ch5_data_flow_diagram.png}
+
+\input{chapters/chapter_6_v_2}
+\includegraphics[width=\textwidth]{Images/ch6_erasure_costs.png}
+
+\input{chapters/chapter_7_v_2}
+\includegraphics[width=\textwidth]{Images/ch7_actor_networks.png}
+
+\input{chapters/chapter_8_v_2}
+\includegraphics[width=\textwidth]{Images/ch8_entropy_comparison.png}
+
+\input{chapters/chapter_9_v_2}
+\includegraphics[width=\textwidth]{Images/ch9_scenario_projection.png}
+
+\input{chapters/chapter_10_v_2}
+\includegraphics[width=\textwidth]{Images/ch10_crossentropy_visual.png}
+
+\input{chapters/chapter_11_v_2_engineering_doubt}
+\includegraphics[width=\textwidth]{Images/ch11_false_signals.png}
+
+\input{chapters/chapter_12_v_2_consent}
+\includegraphics[width=\textwidth]{Images/ch12_consensus_feedback.png}
+
+\input{chapters/chapter_13_v_2}
+\includegraphics[width=\textwidth]{Images/ch13_surveillance_logics.png}
+
+\input{chapters/chapter_14_v_2}
+\includegraphics[width=\textwidth]{Images/ch14_judicial_inversion.png}
+
+\input{chapters/chapter_15_v_2_final}
+\includegraphics[width=\textwidth]{Images/ch15_final_state_estimate.png}
+
+% =========================
+% APPENDICES
+% =========================
+\appendix
+\input{appendix_a_terminology}
+\input{appendix_b_case_studies}
+\input{appendix_c_code_data}
+\input{appendix_d_conflict_tables}
+
+% =========================
+% EPILOGUE
+% =========================
+\input{epilogue_we_were_never_free}
+
+% =========================
+% REFERENCES
+% =========================
+\printbibliography
+
+\end{document}\listoffigures
 

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+pdflatex Collapse_Algorithm_Book_v3.tex
+biber Collapse_Algorithm_Book_v3
+pdflatex Collapse_Algorithm_Book_v3.tex
+pdflatex Collapse_Algorithm_Book_v3.tex

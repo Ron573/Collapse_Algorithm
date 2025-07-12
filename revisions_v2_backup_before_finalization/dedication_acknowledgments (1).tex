@@ -1,0 +1,62 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+Dedication \& Acknowledgments
+
+To those no longer with us but whose memory and principles shape my work: this is not just a book---it is my resistance node. These pages don't just describe collapse; I reveal how collapse is engineered, normalized, and monetized. What you're holding is a systems science field manual, wrapped in narrative form. I wrote it for those ready to awaken, organize, and reclaim civic feedback before the system shuts down.
+
+I personally thank Professors Madathil (my advisor), Sayama (Graduate Studies in Complex Sciences), Wu (computational tools), Wang (Probability and Statistics), Rocha (Introduction to Complex Sciences), and Scott E. Page, whose work deeply informed my thinking. Without their mentorship and scholarly guidance, I wouldn't be writing this book today.
+
+I owe a special debt to my classmates. Their critiques, insights, and rigorous questioning sharpened my ideas and held me to a higher standard. Every challenging exchange we had pushed me to think deeper, articulate better, and stay honest. These chapters reflect that collective sharpening. Without them, this book wouldn't be half as coherent or courageous.
+
+\end{document}

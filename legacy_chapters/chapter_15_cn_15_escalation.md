@@ -1,0 +1,15 @@
+\chapter*{Abstract}
+
+The United States is experiencing a systemic unraveling that defies traditional political or economic explanations. This book applies a complex systems science framework to examine the cascading failure of democratic institutions, epistemic trust, and civic cohesion in the face of rising authoritarianism, disinformation, and corporate consolidation. Drawing from information theory, entropy models, and network dynamics, I argue that the collapse of shared reality is not a byproduct but a strategic objective of power-seeking actors operating within and outside formal institutions (Chotiner, 2025).
+
+At the center of this collapse is a recursive feedback system that weaponizes uncertainty, inflames tribal identity, and erodes the capacity for coordinated action. The Trump administration's second term did not mark the beginning of American decline, but rather the normalization of emergency—what I call the CN15 condition: a convergence of cognitive capture, normative erosion, and institutional paralysis. Trump's habitual defiance of constitutional boundaries, repeated circumvention of legal constraints, and undermining of the intelligence community formed an accelerant to this systemic entropy (Chotiner, 2025). His governance style—marked by disinformation, narcissistic decision-making, and disregard for the separation of powers—destabilized already fragile democratic infrastructure.
+
+This work synthesizes historical precedent, computational modeling, and qualitative analysis, including whistleblower testimony and OSINT investigations. Each chapter dissects a structural layer of collapse, from the hijacking of information ecosystems to the engineering of consent through controlled opposition. It also considers the thermodynamic costs of disinformation, the entropic degradation of systems, and the mimetic contagion of fascist rhetoric.
+
+Ultimately, this book serves as both a diagnosis and a call to systems-level resistance. It offers a strategic map of how collapse was orchestrated and, more critically, where resilience and countervailing force may still be found. The goal is not to restore the status quo, but to understand its failure modes so that we might construct something fundamentally different—and durable.
+
+\space{1cm}
+\noindent\textbf{Keywords:} systems collapse, information entropy, authoritarianism, cognitive warfare, democratic decay, Trump administration, feedback loops, controlled opposition, thermodynamics of disinformation
+
+\footnotetext[1]{Chotiner, I. (2025, May 16). Donald Trump’s Culture of Corruption. *The New Yorker*. Retrieved from https://www.newyorker.com/news/q-and-a/donald-trumps-culture-of-corruption}
+

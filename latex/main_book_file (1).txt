@@ -1,0 +1,126 @@
+\documentclass[12pt]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{fancyhdr}
+\usepackage{parskip}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{lipsum}
+\usepackage{imakeidx}
+\usepackage{natbib}
+\usepackage{bibentry}
+\usepackage{longtable}
+\usepackage{titlesec}
+\usepackage{microtype}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage[dvipsnames]{xcolor}
+
+\titleformat{\chapter}[display]{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=MidnightBlue,
+    citecolor=RoyalBlue,
+    urlcolor=RoyalBlue,
+    pdfauthor={Ronald J. Botelho},
+    pdftitle={Collapse Algorithm},
+    pdfkeywords={authoritarianism, systems science, collapse, democracy, disinformation, Trump, JD Vance, Project 2025},
+    pdfproducer={LaTeX}
+}
+
+\setstretch{1.2}
+\makeindex
+
+\begin{document}
+
+% Front Cover Page
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    \includegraphics[width=0.85\textwidth]{assets/front_cover_final.png} \\
+    \vspace*{1.5cm}
+\end{titlepage}
+
+% Title Page
+\begin{titlepage}
+    \centering
+    {\Huge\bfseries Collapse Algorithm} \\[1cm]
+    {\Large Ronald J. Botelho, MS} \\[0.5cm]
+    \vfill
+    {\large \today}
+\end{titlepage}
+
+\newpage
+\thispagestyle{empty}
+\mbox{}
+
+% Copyright
+\newpage
+\thispagestyle{empty}
+\begin{center}
+    \textcopyright~2025 Ronald J. Botelho \\[1ex]
+    This work is licensed under the MIT License. For full license text, see Appendix E.
+\end{center}
+
+\newpage
+\tableofcontents
+\newpage
+
+% Chapters
+\chapter{The Algorithmic Origins of Collapse}
+\label{chap:introduction}
+\includegraphics[width=0.9\textwidth]{images/Inverted_Feedback_Spiral_Chapter1.png}
+\includegraphics[width=0.9\textwidth]{images/spiral_collapse_loop_ch1.png}
+\input{revisions_v2_final/chapter_01_v_2.tex}
+
+\chapter{Disinformation and the Erosion of Trust}
+\includegraphics[width=0.9\textwidth]{images/institutional_fragility_cascade_ch3.png}
+\input{revisions_v2_final/chapter_02_v_2.tex}
+
+\chapter{Weaponized Narratives and Engineered Consent}
+\input{revisions_v2_final/chapter_03_v_2.tex}
+
+\chapter{Structural Corruption and Legal Inversion}
+\input{revisions_v2_final/chapter_04_v_2.tex}
+
+\chapter{Propaganda Feedback and the Attention Economy}
+\input{revisions_v2_final/chapter_05_v_2.tex}
+
+\chapter{Technocratic Rule and the Data Leviathan}
+\includegraphics[width=0.9\textwidth]{images/algorithmic_state_architecture_ch2.png}
+\input{revisions_v2_final/chapter_06_v_2.tex}
+
+\chapter{From Surveillance Capitalism to Control Infrastructure}
+\input{revisions_v2_final/chapter_07_v_2.tex}
+
+\chapter{Social Fracturing and the Myth of Unity}
+\input{revisions_v2_final/chapter_08_v_2.tex}
+
+\chapter{Information Weaponized: The Erosion of Shared Reality}
+\input{revisions_v2_final/chapter_09_v_2.tex}
+
+\chapter{Disinformation Feedback and the Strategic Engineering of Doubt}
+\input{revisions_v2_final/chapter_10_v_2.tex}
+
+\chapter{Coercion, Incentives, and the Normalization of Abuse}
+\input{revisions_v2_final/chapter_11_v_2.tex}
+
+\chapter{Algorithmic Governance and Mass Behavioral Control}
+\includegraphics[width=0.9\textwidth]{images/Fig12.1 - the Agency Collapse.png}
+\includegraphics[width=0.9\textwidth]{images/Figure 12.1 – The Agency Collapse Loop- System of Obscured Accountability.png}
+\input{revisions_v2_final/chapter_12_v_2.tex}
+
+\chapter{Systemic Resistance: Leverage Points and Fracture Lines}
+\includegraphics[width=0.9\textwidth]{images/appendix_c1_triad_feedback_loop.png}
+\input{revisions_v2_final/chapter_13_v_2.tex}
+
+\chapter{Surveillance Capitalism Meets Judicial Permissiveness}
+\input{revisions_v2_final/chapter_14_v_2.tex}
+
+\chapter{The Way Down}
+\input{revisions_v2_final/chapter_15_v_2.tex}
+
+\end{document}

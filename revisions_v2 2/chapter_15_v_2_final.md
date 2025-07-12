@@ -1,0 +1,16 @@
+Chapter 15: The Way Down
+
+We have crossed the event horizon of constitutional reversal. The American system is no longer inching toward autocracy—it is functionally there. The judiciary, once imagined as a brake on tyranny, now functions as a lubricant. Supreme Court rulings no longer reflect neutral adjudication but strategic acquiescence.
+
+Consider the Court’s silence on President Trump’s unilateral military strikes on Iran, which bypassed congressional authorization and triggered oil price shocks. Such actions violate the War Powers Resolution, yet legal challenges remain unheard. The Court’s refusal to enforce the separation of powers has rendered Congress theatrically irrelevant.
+
+These crises do not occur in isolation. They are stacked. The administration’s move to restrict federal lawmakers’ access to ICE facilities, combined with the FTC’s investigation of Media Matters (a liberal watchdog group) for allegedly colluding with advertising groups to defund right-wing platforms like X (formerly Twitter), illustrates a coordinated campaign to undermine opposition, manipulate information flows, and criminalize resistance.
+
+The authoritarian toolkit is almost complete. Mass deportation infrastructure (e.g., Camp Lemonnier, Alligator Alcatraz), the judicial greenlight for torture-prone extraditions, suppression of dissent on campus, and manipulation of judicial standing form a latticework of repression. It is no longer hypothetical.
+
+We are witnessing legalism without justice, trials without oversight, executive orders without constitutional restraint. The final descent comes when institutions become performative and enforcement becomes weaponized. This is the way down: not in fire or fury, but in memo, ruling, and proclamation.
+
+Invoking Landauer once more, the compression of civic agency and the forced erasure of institutional memory incurs not only ethical cost but physical cost. The erasure of rights is not reversible. It costs energy, destabilizes equilibrium, and increases systemic fragility. The thermodynamic cost of injustice compounds across time—until collapse is no longer a question of if, but when.
+
+And still, the burden of resistance falls on those without robes, gavels, or titles. It falls on us.
+

@@ -1,0 +1,136 @@
+\documentclass[12pt]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{fancyhdr}
+\usepackage{parskip}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{lipsum}
+\usepackage{imakeidx}
+\usepackage{natbib}
+\usepackage{bibentry}
+\usepackage{longtable}
+\usepackage{titlesec}
+\usepackage{microtype}
+\usepackage{geometry}
+\geometry{margin=0.9in}
+\usepackage[dvipsnames]{xcolor}
+
+\titleformat{\chapter}[display]{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=MidnightBlue,
+    citecolor=RoyalBlue,
+    urlcolor=RoyalBlue,
+    pdfauthor={Ronald J. Botelho},
+    pdftitle={Collapse Algorithm},
+    pdfkeywords={authoritarianism, systems science, collapse, democracy, disinformation, Trump, JD Vance, Project 2025},
+    pdfproducer={LaTeX}
+}
+
+\setstretch{1.2}
+\makeindex
+
+\begin{document}
+
+% Front Cover Page
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    \includegraphics[width=0.85\textwidth]{assets/figures/front_cover_final.png} \\
+    \vspace*{1.5cm}
+\end{titlepage}
+
+% Title Page
+\begin{titlepage}
+    \centering
+    {\Huge\bfseries Collapse Algorithm} \\[1cm]
+    {\Large Ronald J. Botelho, MS} \\[0.5cm]
+    \vfill
+    {\large \today}
+\end{titlepage}
+
+\newpage
+\thispagestyle{empty}
+\mbox{}
+
+% Copyright
+\newpage
+\thispagestyle{empty}
+\begin{center}
+    \textcopyright~2025 Ronald J. Botelho \\[1ex]
+    This work is licensed under the MIT License. For full license text, see Appendix E.
+\end{center}
+\newpage
+
+% Epigraph (directly embedded and formatted)
+\begin{flushleft}
+\vspace*{1cm}
+\textbf{\large Epigraph}
+
+\vspace{1.5em}
+\begin{quote}\raggedright\itshape
+In 1963, Dr. Martin Luther King Jr. wrote from a Birmingham jail that "human progress never rolls in on wheels of inevitability."
+
+In 2025, I believe the same urgency applies. Human progress and American democracy will not continue by default. They must be defended.
+
+Now is our time to stand guard at home — with grim and bold determination, yet with a clarity of purpose that rises above vengeance.
+\end{quote}
+\hfill --- Botelho, R. (2025), \textit{Guarding the Fragile Architecture of Democracy}
+
+\vspace{2em}
+\hrule
+\vspace{1em}
+
+\begin{quote}\raggedright\itshape
+To erase a single bit of information, a physical system must dissipate energy — this is not a metaphor, but a law of thermodynamics.
+
+Landauer’s Principle sets the fundamental energy cost of information erasure. The closer one approaches zero temperature, the more severe the cost. There is no clean slate — only entropy, displaced.
+
+This book begins with that act of erasure. Because before systems collapse outwardly, they unravel from within.
+\end{quote}
+\hfill --- Adapted from Rolf Landauer (1961) and extended by Botelho, R. (2025)
+\end{flushleft}
+
+% Spiral Collapse Graphic with Caption and Description
+\newpage
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=0.9\textwidth]{assets/figures/Inverted_Feedback_Spiral_Chapter1.png}
+  \caption{Inverted Feedback Spiral of Collapse — A Visual Primer}
+  \label{fig:spiral_collapse_loop}
+\end{figure}
+
+\noindent
+\textit{Description:} The spiral represents how entropy concentrates toward the core of systems under collapse. Outer feedback mechanisms that once stabilized the structure become co-opted, disabled, or self-defeating. As the spiral tightens, systems lose adaptability — feedback becomes error amplification, not correction. Entropy is not evenly distributed: it sinks inward, compounding fragility, accelerating failure.
+
+\newpage
+\tableofcontents
+\newpage
+
+% Chapters (Semantic Naming)
+\input{revisions_v2_final/chapter_1_erasure}
+\input{revisions_v2_final/chapter_2_feedback_loops}
+\input{revisions_v2_final/chapter_3_fragility_cascade}
+\input{revisions_v2_final/chapter_4_normalization}
+\input{revisions_v2_final/chapter_5_malignant_fabric}
+\input{revisions_v2_final/chapter_6_denialism}
+\input{revisions_v2_final/chapter_7_disinformation_networks}
+\input{revisions_v2_final/chapter_8_regime_propaganda}
+\input{revisions_v2_final/chapter_9_information_weaponized}
+\input{revisions_v2_final/chapter_10_feedback_doubt}
+\input{revisions_v2_final/chapter_11_coercion}
+\input{revisions_v2_final/chapter_12_administrative_disintegration}
+\input{revisions_v2_final/chapter_13_convergence}
+\input{revisions_v2_final/chapter_14_surveillance_judiciary}
+\input{revisions_v2_final/chapter_15_republic_or_empire}
+
+% Bibliography
+\newpage
+\bibliographystyle{apa}
+\bibliography{revisions_v2_final/bibliography_v_2}
+
+\end{document}

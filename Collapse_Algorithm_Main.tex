@@ -1,0 +1,91 @@
+\documentclass[12pt,twoside]{book}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{csquotes}
+\usepackage{float}
+\usepackage{titlesec}
+\usepackage{lipsum}
+\usepackage{caption}
+\geometry{margin=1in}
+
+\title{Collapse Algorithm: The Hidden Patterns Behind Politics, Power, and Possibility}
+\author{Ronald J. Botelho, MS}
+\date{}
+
+\begin{document}
+
+% Title Page
+\begin{titlepage}
+  \centering
+  \includegraphics[width=0.6\textwidth]{assets/figures/front_cover_final.png} \\
+  \vspace{1cm}
+  {\Huge\bfseries Collapse Algorithm} \\[0.5cm]
+  {\Large The Hidden Patterns Behind Politics, Power, and Possibility} \\[1.5cm]
+  {\Large Ronald J. Botelho, MS} \\[2cm]
+  \includegraphics[width=0.3\textwidth]{assets/figures/RonB_author_photo.png} \\[1cm]
+  \vfill
+  \today
+\end{titlepage}
+\clearpage
+\input{latex/quote_interjection.tex}
+\clearpage
+
+\frontmatter
+\tableofcontents
+\newpage
+\include{frontmatter/dedication_acknowledgments}
+\include{frontmatter/abstract_v_2}
+\include{preface_collapse_algorithm}
+
+\mainmatter
+\include{chapters/chapter_1_v_2}
+\include{chapters/chapter_2_v_2}
+\include{chapters/chapter_3_v_2}
+\include{chapters/chapter_4_v_2}
+\include{chapters/chapter_5_v_2}
+\include{chapters/chapter_6_v_2}
+\include{chapters/chapter_7_v_2}
+\include{chapters/chapter_8_v_2}
+\include{chapters/chapter_9_disinformation}
+\include{chapters/chapter_10_v_2}
+\include{chapters/chapter_11_v_2_coercion}
+\include{chapters/chapter_11_v_2_engineering_doubt}
+\include{chapters/chapter_12_v_2_consent}
+\include{chapters/chapter_12_v_2}
+\include{chapters/chapter_13_v_2}
+\include{chapters/chapter_14_v_2}
+\include{chapters/chapter_15_v_2_final}
+
+\backmatter
+\include{appendices/abstract_v_2}
+\bibliographystyle{apa}
+\bibliography{backmatter/bibliography_v_2}
+\input{assets/figures/flaps_final/back_flap_title_author}
+
+% === Inside Back Cover ===
+\cleardoublepage
+\thispagestyle{empty}
+\vspace*{\fill}
+
+\begin{minipage}[t]{0.60\textwidth}
+  \input{assets/figures/flaps_final/author_bio_flap.tex}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.35\textwidth}
+  \centering
+  \includegraphics[width=\linewidth]{assets/figures/flaps_final/RonB_author_photo.png}
+\end{minipage}
+
+\vspace{1.5cm}
+
+\begin{center}
+  \itshape
+  \input{assets/figures/flaps_final/front_flap_quote.tex}
+\end{center}
+
+\vspace*{\fill}
+\newpage
+
+\end{document}

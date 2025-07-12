@@ -1,0 +1,43 @@
+# 📘 Collapse Algorithm: Weaponized Narratives and Engineered Consent
+
+**Author:** Ronald J. Botelho, MS  
+**Last Updated:** July 2025  
+**License:** [MIT License](license.tex)  
+**PDF Build Script:** [`build_book.sh`](build_book.sh)
+
+---
+
+## 🧠 What Is *Collapse Algorithm*?
+
+**Collapse Algorithm** is a multidisciplinary, systems-level critique of how authoritarian power consolidates through engineered disinformation, digital surveillance, and judicial permissiveness. Combining insights from over **50+ Substack articles**, thermodynamic entropy, and information theory, this book exposes the infrastructural and psychological pipelines that drive collective compliance and political decay.
+
+This is not just a book. It is **a resistance node in code, theory, and narrative**.
+
+---
+
+## 🔍 Core Questions Explored
+
+- What is the thermodynamic cost of **erasing memory**—historically, digitally, and legally?
+- How do entropy, feedback loops, and Markov transitions help us model **systemic collapse**?
+- What role do figures like Donald Trump, J.D. Vance, and Elon Musk play in the **engineered consent pipeline**?
+- How has the judicial system become a **compliance mechanism**, rather than a safeguard?
+
+---
+
+## 🧩 Technical Architecture
+
+- 📄 Written in LaTeX (`Collapse_Algorithm_final_main.tex`)
+- 📚 APA 7th citations via `biblatex` + `biber`
+- 📊 All figures are embedded as PNGs under `Images/`
+- 🔬 Chapters combine Markdown + TeX workflows (`chapters/`)
+- 🧠 Appendices include terminology, datasets, and code
+
+---
+
+## 🧪 Compile Instructions (macOS / TeXShop)
+
+To compile the full book:
+
+```bash
+./build_book.sh
+

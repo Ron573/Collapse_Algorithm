@@ -1,0 +1,1141 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2019-08-28-10.02.46.142
+Student First Name:RONALD
+Student Middle Initial:J
+Student Last Name:BOTELHO
+Student Street Address 1:
+Student Street Address 2:
+Student City:
+Student State Code:  
+Student Country Code:  
+Student Zip Code:
+Student Email Address:
+Student Home Phone Country Code:
+Student Home Phone Number:
+Student Home Phone Preferred:
+Student Cell Phone Country Code:
+Student Cell Phone Number:
+Student Cell Phone Preferred:
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0.0
+Student SULA Subsidized Usage Period:0.0
+Student SULA Remaining Eligibility Period:0.0
+Student Enrollment Status:WITHDRAWN
+Student Enrollment Status Effective Date:08/30/2001
+Student Total All Loans Outstanding Principal:$82,915
+Student Total All Loans Outstanding Interest:$0
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$0
+Total DIRECT STAFFORD SUBSIDIZED Outstanding Principal:$0
+Total DIRECT STAFFORD SUBSIDIZED Outstanding Interest:$0
+Total DIRECT STAFFORD UNSUBSIDIZED Outstanding Principal:$0
+Total DIRECT STAFFORD UNSUBSIDIZED Outstanding Interest:$0
+Total FFEL CONSOLIDATED Outstanding Principal:$82,915
+Total FFEL CONSOLIDATED Outstanding Interest:$0
+Total FFEL SUPPLEMENTAL LOAN (SLS) Outstanding Principal:$0
+Total FFEL SUPPLEMENTAL LOAN (SLS) Outstanding Interest:$0
+Total FFEL STAFFORD SUBSIDIZED Outstanding Principal:$0
+Total FFEL STAFFORD SUBSIDIZED Outstanding Interest:$0
+Loan Type:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5277S00G02772001
+Loan Attending School Name:MERCY COLLEGE
+Loan Attending School OPEID:00277200
+Loan Date:02/24/2000
+Loan Repayment Begin Date:03/01/2002
+Loan Period Begin Date:02/24/2000
+Loan Period End Date:02/24/2001
+Loan Amount:$2,041
+Loan Disbursed Amount:$2,041
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:02/15/2017
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:02/15/2017
+Loan Interest Rate Type:VARIABLE
+Loan Interest Rate:2.65%
+Loan Repayment Plan Type:ALTERNATIVE FIXED PAYMENT REPAYMENT PLAN
+Loan Repayment Plan Begin Date:12/12/2015
+Loan Repayment Plan Scheduled Amount:$12
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:10/08/2016
+Loan Next Payment Due Date:04/03/2017
+Loan Cumulative Payment Amount:$92
+Loan PSLF Cumulative Matched Months:0
+Loan Status:VA
+Loan Status Description:DISABLED VETERAN DISCHARGED
+Loan Status Effective Date:02/03/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/28/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/11/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/08/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/30/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/24/2000
+Loan Disbursement Date:02/24/2000
+Loan Disbursement Amount:$2,041
+Loan Contact Type:Current ED Servicer
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:303740283
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Loan Type:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5277U00G02772001
+Loan Attending School Name:MERCY COLLEGE
+Loan Attending School OPEID:00277200
+Loan Date:02/24/2000
+Loan Repayment Begin Date:03/01/2002
+Loan Period Begin Date:02/24/2000
+Loan Period End Date:02/24/2001
+Loan Amount:$7,209
+Loan Disbursed Amount:$7,209
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:02/15/2017
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:02/15/2017
+Loan Interest Rate Type:VARIABLE
+Loan Interest Rate:2.65%
+Loan Repayment Plan Type:ALTERNATIVE FIXED PAYMENT REPAYMENT PLAN
+Loan Repayment Plan Begin Date:12/12/2015
+Loan Repayment Plan Scheduled Amount:$51
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:10/08/2016
+Loan Next Payment Due Date:04/03/2017
+Loan Cumulative Payment Amount:$394
+Loan PSLF Cumulative Matched Months:0
+Loan Status:VA
+Loan Status Description:DISABLED VETERAN DISCHARGED
+Loan Status Effective Date:02/03/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/28/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/11/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/08/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/30/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/24/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/24/2000
+Loan Disbursement Date:02/24/2000
+Loan Disbursement Amount:$7,209
+Loan Contact Type:Current ED Servicer
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:303740283
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Loan Type:FFEL CONSOLIDATED
+Loan Award ID:
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:04/21/1999
+Loan Repayment Begin Date:04/21/1999
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$41,635
+Loan Disbursed Amount:$41,635
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$82,915
+Loan Outstanding Principal Balance as of Date:04/14/2017
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:04/14/2017
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:7.38%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DI
+Loan Status Description:DISABILITY
+Loan Status Effective Date:04/14/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/06/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/05/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/01/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/27/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/28/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/21/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/24/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/27/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/22/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/20/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/21/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/21/2012
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/16/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/21/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2009
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/20/2008
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/31/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/21/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/21/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/21/2006
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/21/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/30/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/21/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2003
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2001
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/30/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/03/2001
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/08/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/21/1999
+Loan Disbursement Date:04/21/1999
+Loan Disbursement Amount:$41,635
+Loan Contact Type:Current Lender
+Loan Contact Name:M&T BANK ELT ALL STUDENT LOAN CORP
+Loan Contact Street Address 1:1230 ROSECRANS AVE.
+Loan Contact Street Address 2:
+Loan Contact City:MANHATTAN BEACH
+Loan Contact State Code:CA
+Loan Contact Zip Code:902660000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:
+Loan Attending School Name:COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK - GENERAL STUDIES
+Loan Attending School OPEID:00270705
+Loan Date:08/18/1993
+Loan Repayment Begin Date:03/01/1995
+Loan Period Begin Date:09/07/1993
+Loan Period End Date:05/13/1994
+Loan Amount:$2,500
+Loan Disbursed Amount:$2,500
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:04/30/1999
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:04/30/1999
+Loan Interest Rate Type:VARIABLE
+Loan Interest Rate:
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:04/30/1999
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/05/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/21/1995
+Loan Disbursement Date:12/20/1993
+Loan Disbursement Amount:$2,500
+Loan Contact Type:Current Lender
+Loan Contact Name:CHASE MANHATTAN BANK
+Loan Contact Street Address 1:CHASE MANHATTAN PLAZA
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:100050000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK - GENERAL STUDIES
+Loan Attending School OPEID:00270705
+Loan Date:08/18/1993
+Loan Repayment Begin Date:03/01/1995
+Loan Period Begin Date:09/07/1993
+Loan Period End Date:05/13/1994
+Loan Amount:$5,500
+Loan Disbursed Amount:$5,500
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:04/30/1999
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:04/30/1999
+Loan Interest Rate Type:VARIABLE
+Loan Interest Rate:
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:04/30/1999
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/05/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/21/1995
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/30/1995
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/01/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:05/17/1994
+Loan Disbursement Date:12/20/1993
+Loan Disbursement Amount:$5,500
+Loan Contact Type:Current Lender
+Loan Contact Name:CHASE MANHATTAN BANK
+Loan Contact Street Address 1:CHASE MANHATTAN PLAZA
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:100050000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:
+Loan Attending School Name:COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK - GENERAL STUDIES
+Loan Attending School OPEID:00270705
+Loan Date:03/05/1993
+Loan Repayment Begin Date:03/01/1995
+Loan Period Begin Date:01/19/1993
+Loan Period End Date:05/08/1993
+Loan Amount:$4,000
+Loan Disbursed Amount:$4,000
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:09/30/1995
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:09/30/1995
+Loan Interest Rate Type:VARIABLE
+Loan Interest Rate:
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1995
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/10/1993
+Loan Disbursement Date:03/10/1993
+Loan Disbursement Amount:$4,000
+Loan Contact Type:Current Lender
+Loan Contact Name:CHASE MANHATTAN BANK
+Loan Contact Street Address 1:CHASE MANHATTAN PLAZA
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:100050000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK - GENERAL STUDIES
+Loan Attending School OPEID:00270705
+Loan Date:03/05/1993
+Loan Repayment Begin Date:04/21/1993
+Loan Period Begin Date:01/19/1993
+Loan Period End Date:05/08/1993
+Loan Amount:$1,961
+Loan Disbursed Amount:$0
+Loan Canceled Amount:$1,961
+Loan Canceled Date:04/21/1993
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:04/21/1993
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:04/21/1993
+Loan Interest Rate Type:VARIABLE
+Loan Interest Rate:
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:04/21/1993
+Loan Contact Type:Current Lender
+Loan Contact Name:CHASE MANHATTAN BANK
+Loan Contact Street Address 1:CHASE MANHATTAN PLAZA
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:100050000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:
+Loan Attending School Name:COLUMBIA UNIVERSITY SCHOOL OF GEN STUDIES
+Loan Attending School OPEID:01160500
+Loan Date:09/04/1990
+Loan Repayment Begin Date:11/01/1991
+Loan Period Begin Date:09/06/1990
+Loan Period End Date:05/01/1991
+Loan Amount:$4,000
+Loan Disbursed Amount:$4,000
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:05/21/1994
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:05/21/1994
+Loan Interest Rate Type:VARIABLE
+Loan Interest Rate:
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:05/21/1994
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/22/1991
+Loan Disbursement Date:01/22/1991
+Loan Disbursement Amount:$4,000
+Loan Contact Type:Current Lender
+Loan Contact Name:CHASE MANHATTAN BANK
+Loan Contact Street Address 1:CHASE MANHATTAN PLAZA
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:100050000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:COLUMBIA UNIVERSITY SCHOOL OF GEN STUDIES
+Loan Attending School OPEID:01160500
+Loan Date:09/04/1990
+Loan Repayment Begin Date:11/01/1991
+Loan Period Begin Date:09/06/1990
+Loan Period End Date:05/01/1991
+Loan Amount:$1,616
+Loan Disbursed Amount:$1,616
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:09/30/1995
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:09/30/1995
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:7.00%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1995
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/30/1995
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/1991
+Loan Disbursement Date:01/22/1991
+Loan Disbursement Amount:$1,616
+Loan Contact Type:Current Lender
+Loan Contact Name:CHASE MANHATTAN BANK
+Loan Contact Street Address 1:CHASE MANHATTAN PLAZA
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:100050000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:
+Loan Attending School Name:COLUMBIA UNIVERSITY SCHOOL OF GEN STUDIES
+Loan Attending School OPEID:01160500
+Loan Date:12/27/1988
+Loan Repayment Begin Date:11/01/1989
+Loan Period Begin Date:09/01/1988
+Loan Period End Date:05/31/1989
+Loan Amount:$4,000
+Loan Disbursed Amount:$4,000
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:04/30/1999
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:04/30/1999
+Loan Interest Rate Type:VARIABLE
+Loan Interest Rate:
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:04/30/1999
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/05/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/21/1995
+Loan Disbursement Date:01/04/1989
+Loan Disbursement Amount:$4,000
+Loan Contact Type:Current Lender
+Loan Contact Name:CHASE MANHATTAN BANK
+Loan Contact Street Address 1:CHASE MANHATTAN PLAZA
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:100050000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:COLUMBIA UNIVERSITY SCHOOL OF GEN STUDIES
+Loan Attending School OPEID:01160500
+Loan Date:12/27/1988
+Loan Repayment Begin Date:11/01/1989
+Loan Period Begin Date:09/01/1988
+Loan Period End Date:05/31/1989
+Loan Amount:$4,000
+Loan Disbursed Amount:$4,000
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:04/30/1999
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:04/30/1999
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:7.00%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:04/30/1999
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/05/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/21/1995
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/1989
+Loan Disbursement Date:01/04/1989
+Loan Disbursement Amount:$4,000
+Loan Contact Type:Current Lender
+Loan Contact Name:CHASE MANHATTAN BANK
+Loan Contact Street Address 1:CHASE MANHATTAN PLAZA
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:100050000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:CITY COLLEGE OF NEW YORK - CUNY
+Loan Attending School OPEID:00268800
+Loan Date:03/26/1986
+Loan Repayment Begin Date:11/01/1989
+Loan Period Begin Date:09/01/1985
+Loan Period End Date:06/30/1986
+Loan Amount:$2,500
+Loan Disbursed Amount:$2,500
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:04/30/1999
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:04/30/1999
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:7.00%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:04/30/1999
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/05/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/21/1995
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/1989
+Loan Disbursement Date:04/01/1986
+Loan Disbursement Amount:$2,500
+Loan Contact Type:Current Lender
+Loan Contact Name:CHASE MANHATTAN BANK
+Loan Contact Street Address 1:CHASE MANHATTAN PLAZA
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:100050000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:CUNY LEHMAN COLLEGE
+Loan Attending School OPEID:00702200
+Loan Date:06/21/1983
+Loan Repayment Begin Date:06/02/1985
+Loan Period Begin Date:06/01/1983
+Loan Period End Date:08/31/1983
+Loan Amount:$1,500
+Loan Disbursed Amount:$1,500
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:04/30/1999
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:04/30/1999
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:7.00%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:04/30/1999
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/05/1999
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/30/1995
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/1985
+Loan Disbursement Date:07/20/1983
+Loan Disbursement Amount:$1,500
+Loan Contact Type:Current Lender
+Loan Contact Name:CHASE MANHATTAN BANK
+Loan Contact Street Address 1:CHASE MANHATTAN PLAZA
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:100050000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:CUNY LEHMAN COLLEGE
+Loan Attending School OPEID:00702200
+Loan Date:08/30/1982
+Loan Repayment Begin Date:06/02/1985
+Loan Period Begin Date:09/01/1982
+Loan Period End Date:06/30/1983
+Loan Amount:$2,500
+Loan Disbursed Amount:$2,500
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:04/30/1999
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:04/30/1999
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:7.00%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:04/30/1999
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/05/1999
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/30/1995
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/1985
+Loan Disbursement Date:10/04/1982
+Loan Disbursement Amount:$2,500
+Loan Contact Type:Current Lender
+Loan Contact Name:CHASE MANHATTAN BANK
+Loan Contact Street Address 1:CHASE MANHATTAN PLAZA
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:100050000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:CUNY LEHMAN COLLEGE
+Loan Attending School OPEID:00702200
+Loan Date:01/13/1982
+Loan Repayment Begin Date:06/02/1985
+Loan Period Begin Date:09/01/1981
+Loan Period End Date:06/30/1982
+Loan Amount:$2,500
+Loan Disbursed Amount:$2,500
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:04/30/1999
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:04/30/1999
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:7.00%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:04/30/1999
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/05/1999
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/30/1995
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/1985
+Loan Disbursement Date:02/05/1982
+Loan Disbursement Amount:$2,500
+Loan Contact Type:Current Lender
+Loan Contact Name:CHASE MANHATTAN BANK
+Loan Contact Street Address 1:CHASE MANHATTAN PLAZA
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:100050000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:CUNY BOROUGH OF MANHATTAN COMMUNITY COLLEGE
+Loan Attending School OPEID:00269100
+Loan Date:12/19/1978
+Loan Repayment Begin Date:06/02/1985
+Loan Period Begin Date:01/01/1900
+Loan Period End Date:01/01/1900
+Loan Amount:$2,500
+Loan Disbursed Amount:$2,500
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:04/30/1999
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:04/30/1999
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:7.00%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:04/30/1999
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/05/1999
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/30/1995
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/1985
+Loan Disbursement Date:02/08/1979
+Loan Disbursement Amount:$2,500
+Loan Contact Type:Current Lender
+Loan Contact Name:CHASE MANHATTAN BANK
+Loan Contact Street Address 1:CHASE MANHATTAN PLAZA
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:100050000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:

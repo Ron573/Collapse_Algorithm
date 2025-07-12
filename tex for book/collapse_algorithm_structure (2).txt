@@ -1,0 +1,94 @@
+% Collapse_Algorithm Master Structure (LaTeX Skeleton)
+% Author: Ronald J. Botelho, MS
+% License: MIT License
+% Note: All chapters will use APA 7th Edition citations
+
+\documentclass[12pt]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{csquotes}
+\usepackage[style=apa,sortcites=true,backend=biber]{biblatex}
+\addbibresource{bibliography_v_2.bib} % Replace with correct .bib file path
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage{geometry}
+\geometry{margin=1in}
+\titleformat{\chapter}[display]{\bfseries\LARGE}{\chaptername\ \thechapter}{20pt}{\LARGE}
+\title{Collapse Algorithm: The Hidden Patterns Behind Politics, Power, and Possibility}
+\author{Ronald J. Botelho, MS}
+\date{Version 1.5 — 2025}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\newpage
+
+% Preface
+\chapter*{Preface: Engineered Collapse}
+\addcontentsline{toc}{chapter}{Preface: Engineered Collapse}
+\input{chapters/preface_engineered_collapse.tex}
+
+% Thematic Framework (Chapters 1–6)
+\chapter{The Algorithmic Origins of Collapse}
+\input{chapters/chapter_01_algorithmic_origins.tex}
+
+\chapter{Twilight of the Republic}
+\input{chapters/chapter_02_twilight_republic.tex}
+
+\chapter{Systems in Decay}
+\input{chapters/chapter_03_systems_decay.tex}
+
+\chapter{Normalized Emergency and the Banality of Collapse}
+\input{chapters/chapter_04_normalized_emergency.tex}
+
+\chapter{From Exception to Operating Procedure}
+\input{chapters/chapter_05_exception_to_procedure.tex}
+
+\chapter{Crisis Loops and the Logic of Self-Destruction}
+\input{chapters/chapter_06_crisis_loops.tex}
+
+% Chronological Collapse (Chapters 7–15)
+\chapter{The Dismantling of Democratic Infrastructure}
+\input{chapters/chapter_07_dismantling_infrastructure.tex}
+
+\chapter{Controlled Operations and the Manufacturing of Consent}
+\input{chapters/chapter_08_controlled_operations.tex}
+
+\chapter{Information Weaponized — The Erosion of Shared Reality}
+\input{chapters/chapter_09_info_weaponized.tex}
+
+\chapter{Chapter 11: Coercion Rebranded – Lawfare and the Authoritarian Reframing of Legitimacy}
+\input{chapters/chapter_11A_coercion.tex}
+\section*{11B: Strategic Engineering of Doubt}
+\addcontentsline{toc}{section}{11B: Strategic Engineering of Doubt}
+\input{chapters/chapter_11B_engineering_doubt.tex}
+
+\chapter{Chapter 12: Masked Authority and the Collapse of Consent}
+\section*{12A: Masked Authority — The Collapse of Visible Power}
+\addcontentsline{toc}{section}{12A: Masked Authority — The Collapse of Visible Power}
+\input{chapters/chapter_12A_masked_authority.tex}
+\section*{12B: Contagion of Compliance — From Cognitive Capture to Civilian Surrender}
+\addcontentsline{toc}{section}{12B: Contagion of Compliance — From Cognitive Capture to Civilian Surrender}
+\input{chapters/chapter_12B_contagion_consent.tex}
+
+\chapter{Surveillance Capitalism Meets Judicial Permissiveness}
+\input{chapters/chapter_14_surveillance_permissiveness.tex}
+
+\chapter{The Iranian Escalation and the CN15 Convergence}
+\input{chapters/chapter_15_cn15_convergence.tex}
+
+% Back Matter
+\appendix
+\chapter{Appendix A: APA 7th Edition References}
+\printbibliography
+
+\chapter{Appendix B: Figures, Algorithms, and Python Code}
+\input{appendices/appendix_figures_code.tex}
+
+\chapter{Appendix C: Keyword Index}
+\input{appendices/appendix_index.tex}
+
+\end{document}
