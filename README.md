@@ -1,4 +1,33 @@
 # 📘 Collapse Algorithm: Weaponized Narratives and Engineered Consent
+# Collapse_Algorithm
+
+This repository contains the in-progress manuscript and source files for the book *Collapse Algorithm* by Ronald J. Botelho, MS.  
+Each chapter is released sequentially with academic references, embedded code, and a thermodynamic and information systems lens.
+
+## Chapters Released
+
+- ✅ **Chapter 1: Origins**
+- ✅ **Chapter 2: The Thermodynamic Cost of Erasure**
+- 🔄 Chapter 3+: In development
+
+## File Structure
+
+Collapse_Algorithm/
+├── chapters/
+│   ├── chapter_1_origins.tex
+│   ├── chapter_2_thermo_cost_erasure.tex
+│   ├── Old_versions/
+├── figures/
+├── code/
+├── bib/
+│   └── collapse_algorithm.bib
+├── LICENSE
+├── README.md
+└── Collapse_Algorithm_Master.tex
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 **Author:** Ronald J. Botelho, MS  
 **Last Updated:** July 2025  
