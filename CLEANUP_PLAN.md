@@ -36,3 +36,27 @@ Likely cleanup targets:
 ## Rule
 
 Do not delete historical material until it has been moved into archive/ or backed up externally.
+
+## Cleanup progress
+
+Completed on repo-cleanup branch:
+- Added repository cleanup plan.
+- Archived duplicate revision and structure folders.
+- Moved media_archive into archive/media_archive.
+- Archived obsolete TeX entry points.
+- Preserved Collapse_Algorithm_final_main.tex as the active manuscript root.
+- Archived duplicate asset files while preserving active Images references.
+
+Current active manuscript root:
+- Collapse_Algorithm_final_main.tex
+
+Current active image path:
+- Images/
+
+Known remaining cleanup targets:
+- README.html
+- SSH key
+- notes/
+- assets/Old study/
+- canonical rename from Collapse_Algorithm_final_main.tex to main.tex
+- build reproducibility test
