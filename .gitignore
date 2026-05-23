@@ -11,6 +11,18 @@
 *.pdf
 *.zip
 *.DS_Store
+# Media
+*.mov
 
-*.mov
-*.mov
+# TeX build dirs
+_build/
+build/
+
+# Secrets
+.env
+
+# OS/editor noise
+Thumbs.db
+
+# Archive/compression
+*.tar.gz
